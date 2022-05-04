@@ -1,1 +1,1 @@
-t/mptcp-read-attributes-of-addr-entries-managed-by-userspace-PMs
+t/selftests-mptcp-add-MP_FAIL-reset-testcase
