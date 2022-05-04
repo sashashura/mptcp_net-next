@@ -1,1 +1,1 @@
-t/selftests-mptcp-create-listeners-to-receive-MPJs
+t/selftests-mptcp-support-MPTCP_PM_CMD_SUBFLOW_DESTROY
