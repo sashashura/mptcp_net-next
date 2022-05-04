@@ -1,1 +1,1 @@
-t/mptcp-netlink-Add-MPTCP_PM_CMD_ANNOUNCE
+t/selftests-mptcp-add-MP_FAIL-reset-testcase
