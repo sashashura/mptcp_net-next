@@ -1,7 +1,0 @@
-From: Kuniyuki Iwashima <kuniyu@amazon.com>
-Subject: [PATCH] raw: Use helpers for the hlist_nulls variant.
-
-hlist_nulls_add_head_rcu() and hlist_nulls_for_each_entry() have dedicated
-macros for sk.
-
-Signed-off-by: Kuniyuki Iwashima <kuniyu@amazon.com>
