@@ -1,8 +1,0 @@
-From: Paolo Abeni <pabeni@redhat.com>
-Subject: [PATCH] selftests: mptcp: add MPC backup tests
-
-Add a couple of test-cases covering the newly introduced
-features - priority update for the MPC subflow.
-
-Reviewed-by: Mat Martineau <mathew.j.martineau@linux.intel.com>
-Signed-off-by: Paolo Abeni <pabeni@redhat.com>
